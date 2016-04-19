@@ -1,5 +1,7 @@
 # PS Circle Hover Effect Joomla Module
 
+[![Join the chat at https://gitter.im/pcmshaper/Free-Joomla-Extensions](https://badges.gitter.im/pcmshaper/Free-Joomla-Extensions.svg)](https://gitter.im/pcmshaper/Free-Joomla-Extensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PS Circle Hover Effect is a Simple Hover Animated CSS3 Effect Module for Joomla2.5 and Joomla3+...
 
 [Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-circle-hover-effect)
