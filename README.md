@@ -1,3 +1,31 @@
+# PS Twitter Feeds - Twitter Feed Joomla Extension
+
+PS Twitter Feeds is a Free Joomla Module can help you out for listing or showing your twitter...
+
+[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-twitter-feeds)
+ | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-twitter-feeds)
+
+# PS Twitter Fan Box - Twitter Follow Box Widget Plugin
+
+PS Twitter FanBox is a Free Joomla Module can help you out for listing or showing your twitter...
+
+[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-twitter-fan-box)
+ | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-twitter-fan-box)
+
+# PS Google Plus Badges - Google Plus Widget Plugin
+
+PS Google Plus Badges to display your Google Plus Page Badges, Google Plus Profile Badges...
+
+[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-google-plus-badges)
+ | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-google-plus-badges)
+
+# PS Facebook Fan Page - Facebook Page Plugin
+
+Facebook Fan Page is a FREE Joomla extension that will display any public access Facebook...
+
+[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-facebook-fan-page)
+ | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-facebook-fan-page)
+
 # PS Circle Hover Effect Joomla Module
 
 PS Circle Hover Effect is a Simple Hover Animated CSS3 Effect Module for Joomla2.5 and Joomla3+...
