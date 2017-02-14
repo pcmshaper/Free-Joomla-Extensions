@@ -1,90 +1,132 @@
+# PS Contact Form - Free Joomla Module
+
+PS Simple Contact Form - Quick Contact Module for Joomla CMS. It is lightweight, fast and easy to use with...
+
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-contact-form)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-contact-form)
+
+# PS SoundCloud Embed - Free Joomla Extension
+
+SoundCloud is leading social sound platform in world's where anyone can create sounds and share all of...
+
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-soundcloud-embed)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-soundcloud-embed)
+
+# PS Content Comments - Premium Joomla Extension
+
+PS Comments - Disqus comment plugin for Joomla. You can able to share or comment your Joomla article...
+
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-content-comments)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-content-comments)
+ 
+# PS Content Share - Premium Joomla Extension
+
+PS Content Share - Social Share plugin for Joomla. You can able to share your Joomla article contents...
+
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-content-share)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-content-share)
+ 
+# PS Vimeo Embed - Vimeo Joomla Extension
+
+Vimeo is leading social video platform in world's where anyone can create or add embed video easily...
+
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-vimeo-embed)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-vimeo-embed)
+
+# PS YouTube Embed - Youtube Joomla Extension
+
+YouTube is leading social video platform in world's where anyone can create or add embed video...
+
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-youtube-embed)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-youtube-embed)
+
 # PS Twitter Feeds - Twitter Feed Joomla Extension
 
 PS Twitter Feeds is a Free Joomla Module can help you out for listing or showing your twitter...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-twitter-feeds)
- | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-twitter-feeds)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-twitter-feeds)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-twitter-feeds)
 
 # PS Twitter Fan Box - Twitter Follow Box Widget Plugin
 
 PS Twitter FanBox is a Free Joomla Module can help you out for listing or showing your twitter...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-twitter-fan-box)
- | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-twitter-fan-box)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-twitter-fan-box)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-twitter-fan-box)
 
 # PS Google Plus Badges - Google Plus Widget Plugin
 
 PS Google Plus Badges to display your Google Plus Page Badges, Google Plus Profile Badges...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-google-plus-badges)
- | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-google-plus-badges)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-google-plus-badges)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-google-plus-badges)
 
 # PS Facebook Fan Page - Facebook Page Plugin
 
 Facebook Fan Page is a FREE Joomla extension that will display any public access Facebook...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-facebook-fan-page)
- | [Download] (https://www.pcmshaper.com/joomla-extensions/ps-facebook-fan-page)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-facebook-fan-page)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-facebook-fan-page)
 
 # PS Circle Hover Effect Joomla Module
 
 PS Circle Hover Effect is a Simple Hover Animated CSS3 Effect Module for Joomla2.5 and Joomla3+...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-circle-hover-effect)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-circle-hover-effect)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-circle-hover-effect)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-circle-hover-effect)
  
 # PS Simple Social Joomla Module
 
 PS Simple Social is a multiple social icons list module. It's used for to display your social groups in one place...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-simple-social)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-simple-social)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-simple-social)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-simple-social)
   
 # PS Calendar Event Joomla Module
 
 PS Calendar Event is a simple calendar event module to display schedule events by date-wise...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-calendar-event)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-calendar-event)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-calendar-event)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-calendar-event)
    
 # PS Digital Clock Joomla Module
 
 PS Digital Clock is a simple digital clock module to display clock on your website. It's simple to use and easy to configure...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-digital-clock)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-digital-clock)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-digital-clock)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-digital-clock)
     
 # PS Simple Carousel Joomla Module
 
 PS Simple Carousel is a simple responsive image carousel module. You can see how it's work on our demo site...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-simple-carousel)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-simple-carousel)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-simple-carousel)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-simple-carousel)
      
 # PS Simple Donation Joomla Module
 
 PS Simple Donation is a simple PayPal donation module. You can easy to integrate PayPal donation button to your website...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-simple-donation)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-simple-donation)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-simple-donation)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-simple-donation)
       
 # PS Facebook Likebox Joomla Module
 
 PS Facebook Likebox is a free module to integrate Facebook box to you website or blog websites...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-facebook-likebox)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-facebook-likebox)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-facebook-likebox)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-facebook-likebox)
        
 # PS Simple CssBox Joomla Module
 
 PS Simple CssBox module is a free and simple CSS3 animation module. It is four column layout module...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-simple-cssbox)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-simple-cssbox)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-simple-cssbox)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-simple-cssbox)
         
 # PS Content Slider Joomla Module
 
 PS Content Slider is a simple and free horizontal content flow slideshow module...
 
-[Demo] (http://demo.pcmshaper.com/extensions/joomla-modules/ps-content-slider)
- | [Download] (http://www.pcmshaper.com/joomla-extensions/ps-content-slider)
+[Demo] (http://extensions.pcmshaper.com/joomla-modules/ps-content-slider)
+ | [Download] (https://pcmshaper.com/joomla-extensions/ps-content-slider)
